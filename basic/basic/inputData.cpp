@@ -1,5 +1,5 @@
 #include<iostream>
-#include<string>
+#include<string>  //getline() 함수 사용
 /*
 	입력 처리
 	cin >> 변수
@@ -14,7 +14,6 @@ int main() {
 	getline(cin, address);  //string 헤더파일 포함해야 함
 
 	cout <<"주소: "<< address << endl;
-	
 	
 
 	return 0;
