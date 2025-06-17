@@ -1,30 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\c\u002B\u002Bworks\\basic\\",
+  "WorkspaceRootPath": "C:\\cplusworks\\basic\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1FF3214E-615F-4C3F-96E6-C35C70C7963C}|basic\\basic.vcxproj|C:\\c\u002B\u002Bworks\\basic\\basic\\OperatorEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{1FF3214E-615F-4C3F-96E6-C35C70C7963C}|basic\\basic.vcxproj|C:\\cplusworks\\basic\\basic\\inputData2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1FF3214E-615F-4C3F-96E6-C35C70C7963C}|basic\\basic.vcxproj|solutionrelative:basic\\inputData2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF3214E-615F-4C3F-96E6-C35C70C7963C}|basic\\basic.vcxproj|C:\\cplusworks\\basic\\basic\\OperatorEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1FF3214E-615F-4C3F-96E6-C35C70C7963C}|basic\\basic.vcxproj|solutionrelative:basic\\OperatorEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FF3214E-615F-4C3F-96E6-C35C70C7963C}|basic\\basic.vcxproj|C:\\c\u002B\u002Bworks\\basic\\basic\\printData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1FF3214E-615F-4C3F-96E6-C35C70C7963C}|basic\\basic.vcxproj|solutionrelative:basic\\printData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FF3214E-615F-4C3F-96E6-C35C70C7963C}|basic\\basic.vcxproj|C:\\c\u002B\u002Bworks\\basic\\basic\\varibleEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1FF3214E-615F-4C3F-96E6-C35C70C7963C}|basic\\basic.vcxproj|solutionrelative:basic\\varibleEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FF3214E-615F-4C3F-96E6-C35C70C7963C}|basic\\basic.vcxproj|C:\\c\u002B\u002Bworks\\basic\\basic\\inputData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1FF3214E-615F-4C3F-96E6-C35C70C7963C}|basic\\basic.vcxproj|solutionrelative:basic\\inputData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FF3214E-615F-4C3F-96E6-C35C70C7963C}|basic\\basic.vcxproj|C:\\c\u002B\u002Bworks\\basic\\basic\\ConstantEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{1FF3214E-615F-4C3F-96E6-C35C70C7963C}|basic\\basic.vcxproj|C:\\cplusworks\\basic\\basic\\ConstantEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1FF3214E-615F-4C3F-96E6-C35C70C7963C}|basic\\basic.vcxproj|solutionrelative:basic\\ConstantEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FF3214E-615F-4C3F-96E6-C35C70C7963C}|basic\\basic.vcxproj|C:\\c\u002B\u002Bworks\\basic\\basic\\inputData2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1FF3214E-615F-4C3F-96E6-C35C70C7963C}|basic\\basic.vcxproj|solutionrelative:basic\\inputData2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{1FF3214E-615F-4C3F-96E6-C35C70C7963C}|basic\\basic.vcxproj|C:\\cplusworks\\basic\\basic\\ad.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1FF3214E-615F-4C3F-96E6-C35C70C7963C}|basic\\basic.vcxproj|solutionrelative:basic\\ad.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF3214E-615F-4C3F-96E6-C35C70C7963C}|basic\\basic.vcxproj|C:\\cplusworks\\basic\\basic\\varibleEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1FF3214E-615F-4C3F-96E6-C35C70C7963C}|basic\\basic.vcxproj|solutionrelative:basic\\varibleEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF3214E-615F-4C3F-96E6-C35C70C7963C}|basic\\basic.vcxproj|C:\\cplusworks\\basic\\basic\\inputData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1FF3214E-615F-4C3F-96E6-C35C70C7963C}|basic\\basic.vcxproj|solutionrelative:basic\\inputData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF3214E-615F-4C3F-96E6-C35C70C7963C}|basic\\basic.vcxproj|C:\\cplusworks\\basic\\basic\\printData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1FF3214E-615F-4C3F-96E6-C35C70C7963C}|basic\\basic.vcxproj|solutionrelative:basic\\printData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1FF3214E-615F-4C3F-96E6-C35C70C7963C}|basic\\basic.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.44.35207\\INCLUDE\\IOSTREAM||{3B902123-F8A7-4915-9F01-361F908088D0}|"
@@ -37,97 +41,101 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ad.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\basic\\basic\\ad.cpp",
+              "RelativeDocumentMoniker": "basic\\ad.cpp",
+              "ToolTip": "C:\\cplusworks\\basic\\basic\\ad.cpp*",
+              "RelativeToolTip": "basic\\ad.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-17T10:16:36.888Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "inputData2.cpp",
-              "DocumentMoniker": "C:\\c\u002B\u002Bworks\\basic\\basic\\inputData2.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\basic\\basic\\inputData2.cpp",
               "RelativeDocumentMoniker": "basic\\inputData2.cpp",
-              "ToolTip": "C:\\c\u002B\u002Bworks\\basic\\basic\\inputData2.cpp",
-              "RelativeToolTip": "basic\\inputData2.cpp",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "ToolTip": "C:\\cplusworks\\basic\\basic\\inputData2.cpp*",
+              "RelativeToolTip": "basic\\inputData2.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-12T12:11:14.332Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "inputData.cpp",
-              "DocumentMoniker": "C:\\c\u002B\u002Bworks\\basic\\basic\\inputData.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\basic\\basic\\inputData.cpp",
               "RelativeDocumentMoniker": "basic\\inputData.cpp",
-              "ToolTip": "C:\\c\u002B\u002Bworks\\basic\\basic\\inputData.cpp",
-              "RelativeToolTip": "basic\\inputData.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "ToolTip": "C:\\cplusworks\\basic\\basic\\inputData.cpp*",
+              "RelativeToolTip": "basic\\inputData.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-12T11:40:26.345Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "ConstantEx.cpp",
-              "DocumentMoniker": "C:\\c\u002B\u002Bworks\\basic\\basic\\ConstantEx.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\basic\\basic\\ConstantEx.cpp",
               "RelativeDocumentMoniker": "basic\\ConstantEx.cpp",
-              "ToolTip": "C:\\c\u002B\u002Bworks\\basic\\basic\\ConstantEx.cpp",
-              "RelativeToolTip": "basic\\ConstantEx.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAPAAAAAAAAAA==",
+              "ToolTip": "C:\\cplusworks\\basic\\basic\\ConstantEx.cpp*",
+              "RelativeToolTip": "basic\\ConstantEx.cpp*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-12T11:28:18.47Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "OperatorEx.cpp",
-              "DocumentMoniker": "C:\\c\u002B\u002Bworks\\basic\\basic\\OperatorEx.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\basic\\basic\\OperatorEx.cpp",
               "RelativeDocumentMoniker": "basic\\OperatorEx.cpp",
-              "ToolTip": "C:\\c\u002B\u002Bworks\\basic\\basic\\OperatorEx.cpp",
-              "RelativeToolTip": "basic\\OperatorEx.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "ToolTip": "C:\\cplusworks\\basic\\basic\\OperatorEx.cpp*",
+              "RelativeToolTip": "basic\\OperatorEx.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-12T11:16:37.151Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "printData.cpp",
-              "DocumentMoniker": "C:\\c\u002B\u002Bworks\\basic\\basic\\printData.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\basic\\basic\\printData.cpp",
               "RelativeDocumentMoniker": "basic\\printData.cpp",
-              "ToolTip": "C:\\c\u002B\u002Bworks\\basic\\basic\\printData.cpp",
+              "ToolTip": "C:\\cplusworks\\basic\\basic\\printData.cpp",
               "RelativeToolTip": "basic\\printData.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-12T10:26:36.164Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T10:26:36.164Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "varibleEx.cpp",
-              "DocumentMoniker": "C:\\c\u002B\u002Bworks\\basic\\basic\\varibleEx.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\basic\\basic\\varibleEx.cpp",
               "RelativeDocumentMoniker": "basic\\varibleEx.cpp",
-              "ToolTip": "C:\\c\u002B\u002Bworks\\basic\\basic\\varibleEx.cpp",
-              "RelativeToolTip": "basic\\varibleEx.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "ToolTip": "C:\\cplusworks\\basic\\basic\\varibleEx.cpp*",
+              "RelativeToolTip": "basic\\varibleEx.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-12T10:45:55.131Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "iostream",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\iostream",
               "RelativeDocumentMoniker": "..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\iostream",
