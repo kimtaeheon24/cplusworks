@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\cplusworks\\Poinets\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F60FB1E8-FA7A-46AF-A6A9-AEB634F8AF12}|Poinets\\Poinets.vcxproj|C:\\cplusworks\\Poinets\\Poinets\\calcScore.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F60FB1E8-FA7A-46AF-A6A9-AEB634F8AF12}|Poinets\\Poinets.vcxproj|solutionrelative:Poinets\\calcScore.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F60FB1E8-FA7A-46AF-A6A9-AEB634F8AF12}|Poinets\\Poinets.vcxproj|C:\\cplusworks\\Poinets\\Poinets\\pointer1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F60FB1E8-FA7A-46AF-A6A9-AEB634F8AF12}|Poinets\\Poinets.vcxproj|solutionrelative:Poinets\\pointer1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F60FB1E8-FA7A-46AF-A6A9-AEB634F8AF12}|Poinets\\Poinets.vcxproj|C:\\cplusworks\\Poinets\\Poinets\\calcScore.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F60FB1E8-FA7A-46AF-A6A9-AEB634F8AF12}|Poinets\\Poinets.vcxproj|solutionrelative:Poinets\\calcScore.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,26 +30,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "calcScore.cpp",
               "DocumentMoniker": "C:\\cplusworks\\Poinets\\Poinets\\calcScore.cpp",
               "RelativeDocumentMoniker": "Poinets\\calcScore.cpp",
-              "ToolTip": "C:\\cplusworks\\Poinets\\Poinets\\calcScore.cpp*",
-              "RelativeToolTip": "Poinets\\calcScore.cpp*",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADEAAAAkAAAAAAAAAA==",
+              "ToolTip": "C:\\cplusworks\\Poinets\\Poinets\\calcScore.cpp",
+              "RelativeToolTip": "Poinets\\calcScore.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAD8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-17T12:03:09.597Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "pointer1.cpp",
               "DocumentMoniker": "C:\\cplusworks\\Poinets\\Poinets\\pointer1.cpp",
               "RelativeDocumentMoniker": "Poinets\\pointer1.cpp",
               "ToolTip": "C:\\cplusworks\\Poinets\\Poinets\\pointer1.cpp",
               "RelativeToolTip": "Poinets\\pointer1.cpp",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-17T11:38:54.169Z",
               "EditorCaption": ""

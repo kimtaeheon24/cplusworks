@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\cplusworks\\classes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7857886E-B8DF-44A4-819D-EA941397CC5D}|classes\\classes.vcxproj|C:\\cplusworks\\classes\\classes\\Tets.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7857886E-B8DF-44A4-819D-EA941397CC5D}|classes\\classes.vcxproj|solutionrelative:classes\\Tets.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7857886E-B8DF-44A4-819D-EA941397CC5D}|classes\\classes.vcxproj|C:\\cplusworks\\classes\\classes\\classRef.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7857886E-B8DF-44A4-819D-EA941397CC5D}|classes\\classes.vcxproj|solutionrelative:classes\\classRef.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,14 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Tets.cpp",
-              "DocumentMoniker": "C:\\cplusworks\\classes\\classes\\Tets.cpp",
-              "RelativeDocumentMoniker": "classes\\Tets.cpp",
-              "ToolTip": "C:\\cplusworks\\classes\\classes\\Tets.cpp",
-              "RelativeToolTip": "classes\\Tets.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAASAAAAAAAAAA==",
+              "Title": "classRef.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\classes\\classes\\classRef.cpp",
+              "RelativeDocumentMoniker": "classes\\classRef.cpp",
+              "ToolTip": "C:\\cplusworks\\classes\\classes\\classRef.cpp",
+              "RelativeToolTip": "classes\\classRef.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-17T12:36:14.064Z",
+              "WhenOpened": "2025-06-19T12:42:57.791Z",
               "EditorCaption": ""
             }
           ]

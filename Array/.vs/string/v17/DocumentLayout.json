@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\cplusworks\\stringArray\\",
+  "WorkspaceRootPath": "C:\\cplusworks\\Array\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{48FFFDF1-AFC8-4A47-B9B2-7D1CD6E321B3}|string\\string.vcxproj|C:\\cplusworks\\stringArray\\string\\referece2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{48FFFDF1-AFC8-4A47-B9B2-7D1CD6E321B3}|string\\string.vcxproj|solutionrelative:string\\referece2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48FFFDF1-AFC8-4A47-B9B2-7D1CD6E321B3}|string\\string.vcxproj|C:\\cplusworks\\stringArray\\string\\stringArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{48FFFDF1-AFC8-4A47-B9B2-7D1CD6E321B3}|string\\string.vcxproj|C:\\cplusworks\\Array\\string\\stringArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{48FFFDF1-AFC8-4A47-B9B2-7D1CD6E321B3}|string\\string.vcxproj|solutionrelative:string\\stringArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48FFFDF1-AFC8-4A47-B9B2-7D1CD6E321B3}|string\\string.vcxproj|C:\\cplusworks\\stringArray\\string\\reference.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{48FFFDF1-AFC8-4A47-B9B2-7D1CD6E321B3}|string\\string.vcxproj|C:\\cplusworks\\Array\\string\\referece2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{48FFFDF1-AFC8-4A47-B9B2-7D1CD6E321B3}|string\\string.vcxproj|solutionrelative:string\\referece2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48FFFDF1-AFC8-4A47-B9B2-7D1CD6E321B3}|string\\string.vcxproj|C:\\cplusworks\\Array\\string\\reference.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{48FFFDF1-AFC8-4A47-B9B2-7D1CD6E321B3}|string\\string.vcxproj|solutionrelative:string\\reference.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48FFFDF1-AFC8-4A47-B9B2-7D1CD6E321B3}|string\\string.vcxproj|C:\\cplusworks\\stringArray\\string\\findMin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{48FFFDF1-AFC8-4A47-B9B2-7D1CD6E321B3}|string\\string.vcxproj|C:\\cplusworks\\Array\\string\\findMin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{48FFFDF1-AFC8-4A47-B9B2-7D1CD6E321B3}|string\\string.vcxproj|solutionrelative:string\\findMin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -29,7 +29,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -41,13 +41,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "referece2.cpp",
-              "DocumentMoniker": "C:\\cplusworks\\stringArray\\string\\referece2.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Array\\string\\referece2.cpp",
               "RelativeDocumentMoniker": "string\\referece2.cpp",
-              "ToolTip": "C:\\cplusworks\\stringArray\\string\\referece2.cpp",
+              "ToolTip": "C:\\cplusworks\\Array\\string\\referece2.cpp",
               "RelativeToolTip": "string\\referece2.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-17T11:21:48.409Z",
               "EditorCaption": ""
@@ -56,9 +56,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "reference.cpp",
-              "DocumentMoniker": "C:\\cplusworks\\stringArray\\string\\reference.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Array\\string\\reference.cpp",
               "RelativeDocumentMoniker": "string\\reference.cpp",
-              "ToolTip": "C:\\cplusworks\\stringArray\\string\\reference.cpp",
+              "ToolTip": "C:\\cplusworks\\Array\\string\\reference.cpp",
               "RelativeToolTip": "string\\reference.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -68,9 +68,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "findMin.cpp",
-              "DocumentMoniker": "C:\\cplusworks\\stringArray\\string\\findMin.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Array\\string\\findMin.cpp",
               "RelativeDocumentMoniker": "string\\findMin.cpp",
-              "ToolTip": "C:\\cplusworks\\stringArray\\string\\findMin.cpp",
+              "ToolTip": "C:\\cplusworks\\Array\\string\\findMin.cpp",
               "RelativeToolTip": "string\\findMin.cpp",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -90,15 +90,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "stringArray.cpp",
-              "DocumentMoniker": "C:\\cplusworks\\stringArray\\string\\stringArray.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Array\\string\\stringArray.cpp",
               "RelativeDocumentMoniker": "string\\stringArray.cpp",
-              "ToolTip": "C:\\cplusworks\\stringArray\\string\\stringArray.cpp",
+              "ToolTip": "C:\\cplusworks\\Array\\string\\stringArray.cpp",
               "RelativeToolTip": "string\\stringArray.cpp",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-17T10:20:34.225Z"
+              "WhenOpened": "2025-06-17T10:20:34.225Z",
+              "EditorCaption": ""
             }
           ]
         }
