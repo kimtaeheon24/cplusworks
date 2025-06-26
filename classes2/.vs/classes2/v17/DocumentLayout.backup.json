@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cplusworks\\classes2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B20FAAF2-AF47-40EE-88B1-B71EA7ABF0FB}|classes2\\classes2.vcxproj|C:\\cplusworks\\classes2\\classes2\\bankAccount6\uC6D426.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B20FAAF2-AF47-40EE-88B1-B71EA7ABF0FB}|classes2\\classes2.vcxproj|solutionrelative:classes2\\bankAccount6\uC6D426.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20FAAF2-AF47-40EE-88B1-B71EA7ABF0FB}|classes2\\classes2.vcxproj|C:\\cplusworks\\classes2\\classes2\\vectorEx26\uC6D426.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B20FAAF2-AF47-40EE-88B1-B71EA7ABF0FB}|classes2\\classes2.vcxproj|solutionrelative:classes2\\vectorEx26\uC6D426.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20FAAF2-AF47-40EE-88B1-B71EA7ABF0FB}|classes2\\classes2.vcxproj|C:\\cplusworks\\classes2\\classes2\\vectorEx16\uC6D426.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B20FAAF2-AF47-40EE-88B1-B71EA7ABF0FB}|classes2\\classes2.vcxproj|solutionrelative:classes2\\vectorEx16\uC6D426.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20FAAF2-AF47-40EE-88B1-B71EA7ABF0FB}|classes2\\classes2.vcxproj|C:\\cplusworks\\classes2\\classes2\\structPoint6\uC6D426.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B20FAAF2-AF47-40EE-88B1-B71EA7ABF0FB}|classes2\\classes2.vcxproj|solutionrelative:classes2\\structPoint6\uC6D426.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20FAAF2-AF47-40EE-88B1-B71EA7ABF0FB}|classes2\\classes2.vcxproj|C:\\cplusworks\\classes2\\classes2\\enumMedal6\uC6D426.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B20FAAF2-AF47-40EE-88B1-B71EA7ABF0FB}|classes2\\classes2.vcxproj|solutionrelative:classes2\\enumMedal6\uC6D426.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20FAAF2-AF47-40EE-88B1-B71EA7ABF0FB}|classes2\\classes2.vcxproj|C:\\cplusworks\\classes2\\classes2\\enumValue6\uC6D426.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B20FAAF2-AF47-40EE-88B1-B71EA7ABF0FB}|classes2\\classes2.vcxproj|solutionrelative:classes2\\enumValue6\uC6D426.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20FAAF2-AF47-40EE-88B1-B71EA7ABF0FB}|classes2\\classes2.vcxproj|C:\\cplusworks\\classes2\\classes2\\structStudent6\uC6D426.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B20FAAF2-AF47-40EE-88B1-B71EA7ABF0FB}|classes2\\classes2.vcxproj|solutionrelative:classes2\\structStudent6\uC6D426.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bankAccount6\uC6D426.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\classes2\\classes2\\bankAccount6\uC6D426.cpp",
+              "RelativeDocumentMoniker": "classes2\\bankAccount6\uC6D426.cpp",
+              "ToolTip": "C:\\cplusworks\\classes2\\classes2\\bankAccount6\uC6D426.cpp",
+              "RelativeToolTip": "classes2\\bankAccount6\uC6D426.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-26T12:00:37.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vectorEx26\uC6D426.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\classes2\\classes2\\vectorEx26\uC6D426.cpp",
+              "RelativeDocumentMoniker": "classes2\\vectorEx26\uC6D426.cpp",
+              "ToolTip": "C:\\cplusworks\\classes2\\classes2\\vectorEx26\uC6D426.cpp",
+              "RelativeToolTip": "classes2\\vectorEx26\uC6D426.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-26T11:39:34.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "vectorEx16\uC6D426.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\classes2\\classes2\\vectorEx16\uC6D426.cpp",
+              "RelativeDocumentMoniker": "classes2\\vectorEx16\uC6D426.cpp",
+              "ToolTip": "C:\\cplusworks\\classes2\\classes2\\vectorEx16\uC6D426.cpp",
+              "RelativeToolTip": "classes2\\vectorEx16\uC6D426.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-26T11:30:41.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "enumMedal6\uC6D426.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\classes2\\classes2\\enumMedal6\uC6D426.cpp",
+              "RelativeDocumentMoniker": "classes2\\enumMedal6\uC6D426.cpp",
+              "ToolTip": "C:\\cplusworks\\classes2\\classes2\\enumMedal6\uC6D426.cpp",
+              "RelativeToolTip": "classes2\\enumMedal6\uC6D426.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-26T11:15:40.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "enumValue6\uC6D426.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\classes2\\classes2\\enumValue6\uC6D426.cpp",
+              "RelativeDocumentMoniker": "classes2\\enumValue6\uC6D426.cpp",
+              "ToolTip": "C:\\cplusworks\\classes2\\classes2\\enumValue6\uC6D426.cpp",
+              "RelativeToolTip": "classes2\\enumValue6\uC6D426.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-26T11:02:44.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "structPoint6\uC6D426.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\classes2\\classes2\\structPoint6\uC6D426.cpp",
+              "RelativeDocumentMoniker": "classes2\\structPoint6\uC6D426.cpp",
+              "ToolTip": "C:\\cplusworks\\classes2\\classes2\\structPoint6\uC6D426.cpp",
+              "RelativeToolTip": "classes2\\structPoint6\uC6D426.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-26T10:34:28.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "structStudent6\uC6D426.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\classes2\\classes2\\structStudent6\uC6D426.cpp",
+              "RelativeDocumentMoniker": "classes2\\structStudent6\uC6D426.cpp",
+              "ToolTip": "C:\\cplusworks\\classes2\\classes2\\structStudent6\uC6D426.cpp",
+              "RelativeToolTip": "classes2\\structStudent6\uC6D426.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-26T10:15:46.421Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
