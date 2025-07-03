@@ -46,16 +46,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -64,7 +56,7 @@
               "RelativeDocumentMoniker": "classes\\newDeleteCar26\uC6D424.cpp",
               "ToolTip": "C:\\cplusworks\\classes\\classes\\newDeleteCar26\uC6D424.cpp",
               "RelativeToolTip": "classes\\newDeleteCar26\uC6D424.cpp",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABYAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-24T12:34:20.655Z",
               "EditorCaption": ""
@@ -79,8 +71,7 @@
               "RelativeToolTip": "classes\\newDeleteCar6\uC6D424.cpp",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-24T12:22:07.125Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T12:22:07.125Z"
             },
             {
               "$type": "Document",
@@ -92,8 +83,7 @@
               "RelativeToolTip": "classes\\classCardArray6\uC6D424.cpp",
               "ViewState": "AgIAABIAAAAAAAAAAAAAAC0AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-24T11:33:41.573Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T11:33:41.573Z"
             },
             {
               "$type": "Document",
@@ -105,8 +95,7 @@
               "RelativeToolTip": "classes\\classCard6\uC6D424.cpp",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-24T11:17:53.835Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T11:17:53.835Z"
             },
             {
               "$type": "Document",

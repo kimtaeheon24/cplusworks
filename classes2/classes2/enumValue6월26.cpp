@@ -11,7 +11,7 @@ enum VALUE {
 
 };
 enum SEASON {
-	봄,
+	봄 = 1,
 	여름,
 	가을,
 	겨울
@@ -26,7 +26,8 @@ int main() {
 
 	//SEASON 사용
 	enum SEASON season;
-	
+	season = 여름;
+
 	if (season == 2) {
 		cout<<"현재 계졀은 여름 입니다.\n";
 	}

@@ -42,11 +42,18 @@ private: //클래스 내부에서 사용하므로 public 할 필요 없음
 };
 
 void BankAccount::deposit(int amount) {
-	balance += amount;  //balance = balance + amount
-	cout << amount << "원이 입금되었습니다. 현재 잔액: " <<
-		balance << "원\n";
-	//거래 발생 추가 - 상수는 구조체(클래스) 이름으로 직접 접근
-	addTransaction(TransactionType::입금, amount);  //입금, 10000
+	if (amount < 0) {
+		cout << "유효한 금액을 입력하세요.\n";
+	}
+	else {
+		balance += amount;  //balance = balance + amount
+		cout << amount << "원이 입금되었습니다. 현재 잔액: " <<
+			balance << "원\n";
+		//거래 발생 추가 - 상수는 구조체(클래스) 이름으로 직접 접근
+		addTransaction(TransactionType::입금, amount);  //입금, 10000
+	}
+
+
 }
 
 void BankAccount::withdraw(int amount) {
@@ -60,10 +67,11 @@ void BankAccount::withdraw(int amount) {
 		balance -= amount;  //balance = balance + amount
 		cout << amount << "원이 출금되었습니다. 현재 잔액: " <<
 			balance << "원\n";
+		//거래 발생 추가 - 상수는 구조체(클래스) 이름으로 직접 접근
+		addTransaction(TransactionType::출금, amount);  //출금, 10000
 	}
-	
-	//거래 발생 추가 - 상수는 구조체(클래스) 이름으로 직접 접근
-	addTransaction(TransactionType::출금, amount);  //입금, 10000
+
+
 }
 
 //거래 추가
@@ -81,15 +89,15 @@ void BankAccount::getTransactionHistory() {
 	cout << "거래 내역 조회\n";
 	if (transactions.empty()) {
 		cout << "거래내역이 없습니다.\n";
-		return;   //즉시 종료
+		return;  //즉시 종료
 	}
+
 	//범위 기반 for
 	for (Transaction trans : transactions) {
 		cout << " | " << (trans.type == TransactionType::입금 ? "입금" : "출금");
 		cout << " | " << trans.amount << "원\n";
 	}
 }
-
 
 //계좌 정보
 void BankAccount::displayInfo() {
@@ -102,33 +110,57 @@ void BankAccount::displayInfo() {
 int main()
 {
 	//동적 객체 생성(new ~ delete) - 포인터
-	BankAccount* account1 = new BankAccount(1001, "이우주", 10000);
-	BankAccount* account2 = new BankAccount(1002, "정은하", 30000);
-	BankAccount* account3 = new BankAccount(1003, "한강", 20000);
+	//BankAccount* account1 = new BankAccount(1001, "이우주", 10000);
+	//BankAccount* account2 = new BankAccount(1002, "정은하", 30000);
+	//BankAccount* account3 = new BankAccount(1003, "한강", 20000);
 
-	//배열로 관리
-	BankAccount* accounts[3] = { account1,account2,account3 };
+	////배열로 관리
+	//BankAccount* accounts[3] = { account1, account2, account3 };
 
-	//입금
-	accounts[0]->deposit(5000);
-	accounts[1]->deposit(10000);
-	
-	//출금
-	accounts[2]->withdraw(31000);
+	////입금
+	//accounts[0]->deposit(5000);
+	//accounts[1]->deposit(10000);
 
-	//계좌 정보
-	for (int i = 0; i < size(accounts); i++) {
-		accounts[i]->displayInfo();
-		accounts[i]->getTransactionHistory();
-	}
+	////출금
+	//accounts[1]->withdraw(20000);
+	//accounts[1]->withdraw(50000); //잔액 부족
 
-	for (int i = 0; i < size(accounts); i++) {
-		delete accounts[i];
-	}
+	////계좌 정보
+	//for (int i = 0; i < size(accounts); i++) {
+	//	accounts[i]->displayInfo();
+	//	accounts[i]->getTransactionHistory();
+	//}
 
-	//delete[] accounts;
+	//for (int i = 0; i < size(accounts); i++) {
+	//	delete accounts[i]; //메모리 해제
+	//}
 
 	//벡터에 객체 저장
+	vector<BankAccount> accounts;
+	accounts.push_back(BankAccount(1001, "이우주", 10000));
+	accounts.push_back(BankAccount(1002, "정은하", 30000));
+	accounts.push_back(BankAccount(1003, "한강", 20000));
+
+	//입금
+	accounts[0].deposit(5000);
+	accounts[1].deposit(10000);
+
+	//출금
+	accounts[1].withdraw(20000);
+	accounts[1].withdraw(50000);
+
+	//인덱싱 조회
+	/*for (int i = 0; i < accounts.size();i++) {
+		accounts[i].displayInfo();
+		accounts[i].getTransactionHistory();
+	}*/
+
+	//범위기반 for(자료형 변수명 : 벡터(배열)이름) {}
+	for (BankAccount accounts : accounts) {
+		accounts.displayInfo();
+		accounts.getTransactionHistory();
+	}
+
 
 	return 0;
 }

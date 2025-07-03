@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cplusworks\\Inheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEC7C63-F0DA-4FBD-B597-D32018A8DC3E}|Inheritance\\Inheritance.vcxproj|C:\\cplusworks\\Inheritance\\Inheritance\\multiherit7\uC6D43.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9DEC7C63-F0DA-4FBD-B597-D32018A8DC3E}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\multiherit7\uC6D43.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEC7C63-F0DA-4FBD-B597-D32018A8DC3E}|Inheritance\\Inheritance.vcxproj|C:\\cplusworks\\Inheritance\\Inheritance\\stateMent2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9DEC7C63-F0DA-4FBD-B597-D32018A8DC3E}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\stateMent2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEC7C63-F0DA-4FBD-B597-D32018A8DC3E}|Inheritance\\Inheritance.vcxproj|C:\\cplusworks\\Inheritance\\Inheritance\\stateMent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9DEC7C63-F0DA-4FBD-B597-D32018A8DC3E}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\stateMent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEC7C63-F0DA-4FBD-B597-D32018A8DC3E}|Inheritance\\Inheritance.vcxproj|C:\\cplusworks\\Inheritance\\Inheritance\\\uC5F0\uC2B5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9DEC7C63-F0DA-4FBD-B597-D32018A8DC3E}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\\uC5F0\uC2B5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEC7C63-F0DA-4FBD-B597-D32018A8DC3E}|Inheritance\\Inheritance.vcxproj|C:\\cplusworks\\Inheritance\\Inheritance\\\uC5F0\uC2B52.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9DEC7C63-F0DA-4FBD-B597-D32018A8DC3E}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\\uC5F0\uC2B52.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEC7C63-F0DA-4FBD-B597-D32018A8DC3E}|Inheritance\\Inheritance.vcxproj|C:\\cplusworks\\Inheritance\\Inheritance\\studentPerson2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9DEC7C63-F0DA-4FBD-B597-D32018A8DC3E}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\studentPerson2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEC7C63-F0DA-4FBD-B597-D32018A8DC3E}|Inheritance\\Inheritance.vcxproj|C:\\cplusworks\\Inheritance\\Inheritance\\studentPerson.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9DEC7C63-F0DA-4FBD-B597-D32018A8DC3E}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\studentPerson.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEC7C63-F0DA-4FBD-B597-D32018A8DC3E}|Inheritance\\Inheritance.vcxproj|C:\\cplusworks\\Inheritance\\Inheritance\\operatorEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9DEC7C63-F0DA-4FBD-B597-D32018A8DC3E}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\operatorEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEC7C63-F0DA-4FBD-B597-D32018A8DC3E}|Inheritance\\Inheritance.vcxproj|C:\\cplusworks\\Inheritance\\Inheritance\\autoDataType.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9DEC7C63-F0DA-4FBD-B597-D32018A8DC3E}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\autoDataType.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEC7C63-F0DA-4FBD-B597-D32018A8DC3E}|Inheritance\\Inheritance.vcxproj|C:\\cplusworks\\Inheritance\\Inheritance\\polymorphism.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9DEC7C63-F0DA-4FBD-B597-D32018A8DC3E}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\polymorphism.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "multiherit7\uC6D43.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Inheritance\\Inheritance\\multiherit7\uC6D43.cpp",
+              "RelativeDocumentMoniker": "Inheritance\\multiherit7\uC6D43.cpp",
+              "ToolTip": "C:\\cplusworks\\Inheritance\\Inheritance\\multiherit7\uC6D43.cpp",
+              "RelativeToolTip": "Inheritance\\multiherit7\uC6D43.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-03T10:15:47.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "\uC5F0\uC2B5.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Inheritance\\Inheritance\\\uC5F0\uC2B5.cpp",
+              "RelativeDocumentMoniker": "Inheritance\\\uC5F0\uC2B5.cpp",
+              "ToolTip": "C:\\cplusworks\\Inheritance\\Inheritance\\\uC5F0\uC2B5.cpp",
+              "RelativeToolTip": "Inheritance\\\uC5F0\uC2B5.cpp",
+              "ViewState": "AgIAACsAAAAAAAAAAIAywBgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-02T15:37:12.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "studentPerson2.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Inheritance\\Inheritance\\studentPerson2.cpp",
+              "RelativeDocumentMoniker": "Inheritance\\studentPerson2.cpp",
+              "ToolTip": "C:\\cplusworks\\Inheritance\\Inheritance\\studentPerson2.cpp",
+              "RelativeToolTip": "Inheritance\\studentPerson2.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-01T10:40:45.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "studentPerson.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Inheritance\\Inheritance\\studentPerson.cpp",
+              "RelativeDocumentMoniker": "Inheritance\\studentPerson.cpp",
+              "ToolTip": "C:\\cplusworks\\Inheritance\\Inheritance\\studentPerson.cpp",
+              "RelativeToolTip": "Inheritance\\studentPerson.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-01T10:27:49.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "stateMent2.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Inheritance\\Inheritance\\stateMent2.cpp",
+              "RelativeDocumentMoniker": "Inheritance\\stateMent2.cpp",
+              "ToolTip": "C:\\cplusworks\\Inheritance\\Inheritance\\stateMent2.cpp",
+              "RelativeToolTip": "Inheritance\\stateMent2.cpp",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-01T12:42:18.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "\uC5F0\uC2B52.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Inheritance\\Inheritance\\\uC5F0\uC2B52.cpp",
+              "RelativeDocumentMoniker": "Inheritance\\\uC5F0\uC2B52.cpp",
+              "ToolTip": "C:\\cplusworks\\Inheritance\\Inheritance\\\uC5F0\uC2B52.cpp",
+              "RelativeToolTip": "Inheritance\\\uC5F0\uC2B52.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-02T16:31:45.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "stateMent.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Inheritance\\Inheritance\\stateMent.cpp",
+              "RelativeDocumentMoniker": "Inheritance\\stateMent.cpp",
+              "ToolTip": "C:\\cplusworks\\Inheritance\\Inheritance\\stateMent.cpp",
+              "RelativeToolTip": "Inheritance\\stateMent.cpp",
+              "ViewState": "AgIAADIAAAAAAAAAAAAQwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-01T11:03:21.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "operatorEx1.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Inheritance\\Inheritance\\operatorEx1.cpp",
+              "RelativeDocumentMoniker": "Inheritance\\operatorEx1.cpp",
+              "ToolTip": "C:\\cplusworks\\Inheritance\\Inheritance\\operatorEx1.cpp",
+              "RelativeToolTip": "Inheritance\\operatorEx1.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-01T11:40:52.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "autoDataType.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Inheritance\\Inheritance\\autoDataType.cpp",
+              "RelativeDocumentMoniker": "Inheritance\\autoDataType.cpp",
+              "ToolTip": "C:\\cplusworks\\Inheritance\\Inheritance\\autoDataType.cpp",
+              "RelativeToolTip": "Inheritance\\autoDataType.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-01T12:28:43.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "polymorphism.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Inheritance\\Inheritance\\polymorphism.cpp",
+              "RelativeDocumentMoniker": "Inheritance\\polymorphism.cpp",
+              "ToolTip": "C:\\cplusworks\\Inheritance\\Inheritance\\polymorphism.cpp",
+              "RelativeToolTip": "Inheritance\\polymorphism.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-01T12:08:15.481Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

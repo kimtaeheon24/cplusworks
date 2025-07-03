@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cplusworks\\DataStructurs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB70F2-FBFF-40E5-8B20-B0E8BB6E1C1C}|DataStructurs\\DataStructurs.vcxproj|C:\\cplusworks\\DataStructurs\\DataStructurs\\sortEx27\uC6D43.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5DB70F2-FBFF-40E5-8B20-B0E8BB6E1C1C}|DataStructurs\\DataStructurs.vcxproj|solutionrelative:DataStructurs\\sortEx27\uC6D43.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB70F2-FBFF-40E5-8B20-B0E8BB6E1C1C}|DataStructurs\\DataStructurs.vcxproj|C:\\cplusworks\\DataStructurs\\DataStructurs\\sortEx17\uC6D43.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5DB70F2-FBFF-40E5-8B20-B0E8BB6E1C1C}|DataStructurs\\DataStructurs.vcxproj|solutionrelative:DataStructurs\\sortEx17\uC6D43.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB70F2-FBFF-40E5-8B20-B0E8BB6E1C1C}|DataStructurs\\DataStructurs.vcxproj|C:\\cplusworks\\DataStructurs\\DataStructurs\\dictionary7\uC6D43.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5DB70F2-FBFF-40E5-8B20-B0E8BB6E1C1C}|DataStructurs\\DataStructurs.vcxproj|solutionrelative:DataStructurs\\dictionary7\uC6D43.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB70F2-FBFF-40E5-8B20-B0E8BB6E1C1C}|DataStructurs\\DataStructurs.vcxproj|C:\\cplusworks\\DataStructurs\\DataStructurs\\mapEx7\uC6D43.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5DB70F2-FBFF-40E5-8B20-B0E8BB6E1C1C}|DataStructurs\\DataStructurs.vcxproj|solutionrelative:DataStructurs\\mapEx7\uC6D43.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB70F2-FBFF-40E5-8B20-B0E8BB6E1C1C}|DataStructurs\\DataStructurs.vcxproj|C:\\cplusworks\\DataStructurs\\DataStructurs\\templateMath7\uC6D43.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5DB70F2-FBFF-40E5-8B20-B0E8BB6E1C1C}|DataStructurs\\DataStructurs.vcxproj|solutionrelative:DataStructurs\\templateMath7\uC6D43.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB70F2-FBFF-40E5-8B20-B0E8BB6E1C1C}|DataStructurs\\DataStructurs.vcxproj|C:\\cplusworks\\DataStructurs\\DataStructurs\\vectorBook7\uC6D43.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5DB70F2-FBFF-40E5-8B20-B0E8BB6E1C1C}|DataStructurs\\DataStructurs.vcxproj|solutionrelative:DataStructurs\\vectorBook7\uC6D43.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB70F2-FBFF-40E5-8B20-B0E8BB6E1C1C}|DataStructurs\\DataStructurs.vcxproj|C:\\cplusworks\\DataStructurs\\DataStructurs\\vectorEx7\uC6D43.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5DB70F2-FBFF-40E5-8B20-B0E8BB6E1C1C}|DataStructurs\\DataStructurs.vcxproj|solutionrelative:DataStructurs\\vectorEx7\uC6D43.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sortEx27\uC6D43.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\DataStructurs\\DataStructurs\\sortEx27\uC6D43.cpp",
+              "RelativeDocumentMoniker": "DataStructurs\\sortEx27\uC6D43.cpp",
+              "ToolTip": "C:\\cplusworks\\DataStructurs\\DataStructurs\\sortEx27\uC6D43.cpp*",
+              "RelativeToolTip": "DataStructurs\\sortEx27\uC6D43.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-03T12:43:26.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sortEx17\uC6D43.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\DataStructurs\\DataStructurs\\sortEx17\uC6D43.cpp",
+              "RelativeDocumentMoniker": "DataStructurs\\sortEx17\uC6D43.cpp",
+              "ToolTip": "C:\\cplusworks\\DataStructurs\\DataStructurs\\sortEx17\uC6D43.cpp",
+              "RelativeToolTip": "DataStructurs\\sortEx17\uC6D43.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-03T12:34:04.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dictionary7\uC6D43.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\DataStructurs\\DataStructurs\\dictionary7\uC6D43.cpp",
+              "RelativeDocumentMoniker": "DataStructurs\\dictionary7\uC6D43.cpp",
+              "ToolTip": "C:\\cplusworks\\DataStructurs\\DataStructurs\\dictionary7\uC6D43.cpp",
+              "RelativeToolTip": "DataStructurs\\dictionary7\uC6D43.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-03T12:15:45.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "mapEx7\uC6D43.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\DataStructurs\\DataStructurs\\mapEx7\uC6D43.cpp",
+              "RelativeDocumentMoniker": "DataStructurs\\mapEx7\uC6D43.cpp",
+              "ToolTip": "C:\\cplusworks\\DataStructurs\\DataStructurs\\mapEx7\uC6D43.cpp",
+              "RelativeToolTip": "DataStructurs\\mapEx7\uC6D43.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-03T12:03:57.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "vectorBook7\uC6D43.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\DataStructurs\\DataStructurs\\vectorBook7\uC6D43.cpp",
+              "RelativeDocumentMoniker": "DataStructurs\\vectorBook7\uC6D43.cpp",
+              "ToolTip": "C:\\cplusworks\\DataStructurs\\DataStructurs\\vectorBook7\uC6D43.cpp",
+              "RelativeToolTip": "DataStructurs\\vectorBook7\uC6D43.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-03T11:30:41.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "vectorEx7\uC6D43.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\DataStructurs\\DataStructurs\\vectorEx7\uC6D43.cpp",
+              "RelativeDocumentMoniker": "DataStructurs\\vectorEx7\uC6D43.cpp",
+              "ToolTip": "C:\\cplusworks\\DataStructurs\\DataStructurs\\vectorEx7\uC6D43.cpp",
+              "RelativeToolTip": "DataStructurs\\vectorEx7\uC6D43.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-03T11:07:04.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "templateMath7\uC6D43.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\DataStructurs\\DataStructurs\\templateMath7\uC6D43.cpp",
+              "RelativeDocumentMoniker": "DataStructurs\\templateMath7\uC6D43.cpp",
+              "ToolTip": "C:\\cplusworks\\DataStructurs\\DataStructurs\\templateMath7\uC6D43.cpp",
+              "RelativeToolTip": "DataStructurs\\templateMath7\uC6D43.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-03T10:38:33.87Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
